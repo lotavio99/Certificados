@@ -4,7 +4,7 @@ def incluir():
     pass
 
 def main():
-    for i in [1,2,3,4,5]:
+    for i in [1,2,3,4,5,6]:
         print(f'resultado {i}')
 
 if __name__ == '__main__':
